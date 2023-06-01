@@ -1,5 +1,6 @@
 # Форма бронирования переговорной
 Тестовое на стажировку в VK
+
 Стек: JavaScript, React, Material UI
 
 Проект на Netlify: https://sayana1707-meeting-room.netlify.app
